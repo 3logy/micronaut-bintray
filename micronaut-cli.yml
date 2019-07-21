@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cm.example
+---
+testFramework: junit
+sourceLanguage: java

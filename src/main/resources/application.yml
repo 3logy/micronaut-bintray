@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: bintrayfetcher
+
+---
+bintray:
+  organization: micronaut
+  repository: profiles
+  apiversion: v1
+  #username: yourbintrayusername
+  #token: XXXXXXXXXXX
